@@ -1,0 +1,8 @@
+Reference,Value,Footprint
+C1,100nF,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder
+J1,Conn_01x06,Connector_JST:JST_SH_SM06B-SRSS-TB_1x06-1MP_P1.00mm_Horizontal
+"R1,R2,R3,R4,R5,R6,R7",1kΩ,Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder
+SW1,BT_Key,Button_Switch_SMD:SW_Push_1P1T_XKB_TS-1187A
+SW2,V-,Button_Switch_SMD:SW_Push_1P1T_XKB_TS-1187A
+SW3,V+,Button_Switch_SMD:SW_Push_1P1T_XKB_TS-1187A
+SW4,start_pause,Button_Switch_SMD:SW_Push_1P1T_XKB_TS-1187A

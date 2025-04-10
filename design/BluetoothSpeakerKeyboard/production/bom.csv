@@ -1,0 +1,8 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+C1,0603,1,100nF,
+J1,JST_SH_SM06B-SRSS-TB_1x06-1MP_P1.00mm_Horizontal,1,Conn_01x06,
+"R1, R2, R3, R4, R5, R6, R7",0402,7,1kΩ,
+SW1,SW_Push_1P1T_XKB_TS-1187A,1,BT_Key,
+SW2,SW_Push_1P1T_XKB_TS-1187A,1,V-,
+SW3,SW_Push_1P1T_XKB_TS-1187A,1,V+,
+SW4,SW_Push_1P1T_XKB_TS-1187A,1,start_pause,

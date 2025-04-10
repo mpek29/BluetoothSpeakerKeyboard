@@ -1363,7 +1363,7 @@
 				)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "1kΩ"
 			(at 110.49 59.944 90)
 			(effects
 				(font
@@ -1371,7 +1371,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 110.49 58.928 90)
 			(effects
 				(font
@@ -1431,7 +1431,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "100nF"
 			(at 96.52 51.562 0)
 			(effects
 				(font
@@ -1440,7 +1440,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 102.5652 58.42 0)
 			(effects
 				(font
@@ -1637,7 +1637,7 @@
 				)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "1kΩ"
 			(at 110.49 44.196 90)
 			(effects
 				(font
@@ -1645,7 +1645,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 110.49 43.688 90)
 			(effects
 				(font
@@ -1772,7 +1772,7 @@
 				)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "1kΩ"
 			(at 110.49 51.816 90)
 			(effects
 				(font
@@ -1780,7 +1780,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 110.49 51.308 90)
 			(effects
 				(font
@@ -1908,7 +1908,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "1kΩ"
 			(at 92.71 80.772 90)
 			(effects
 				(font
@@ -1916,7 +1916,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 92.71 80.518 90)
 			(effects
 				(font
@@ -1975,7 +1975,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "1kΩ"
 			(at 92.71 60.452 90)
 			(effects
 				(font
@@ -1983,7 +1983,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 92.71 60.198 90)
 			(effects
 				(font
@@ -2240,7 +2240,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "1kΩ"
 			(at 92.71 101.346 90)
 			(effects
 				(font
@@ -2248,7 +2248,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 92.71 100.838 90)
 			(effects
 				(font
@@ -2318,7 +2318,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_SH_BM06B-SRSS-TB_1x06-1MP_P1.00mm_Vertical"
+		(property "Footprint" "Connector_JST:JST_SH_SM06B-SRSS-TB_1x06-1MP_P1.00mm_Horizontal"
 			(at 157.48 71.12 0)
 			(effects
 				(font
@@ -2389,7 +2389,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "1kΩ"
 			(at 92.71 118.872 90)
 			(effects
 				(font
@@ -2397,7 +2397,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 92.71 118.618 90)
 			(effects
 				(font
